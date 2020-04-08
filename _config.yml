@@ -97,7 +97,7 @@ author:
   avatar           : "/assets/HSKim.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Developer, Designer"
   location         : "Daejeon, Korea"
-  email            : "tuple@etri.re.kr"
+  email            : # "tuple@etri.re.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
