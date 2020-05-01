@@ -207,7 +207,7 @@ categories: ml optimizer
 
 ## 6. Liquid 문법
 
-- `{{ }}` : Output markup. 안에 쓴 객체가 html에 그대로 출력된다. `{{ page.title }}` 이라면 저 객체가 갖고 있는 값이 그대로 html에서 보여진다. 변수 정보는 다음 [링크](http://jekyllrb.com/docs/variables/)에 나와있다.
+- `{{ }}` : Output markup. 안에 쓴 객체가 html에 그대로 출력된다. `{ page.title }` 이라면 저 객체가 갖고 있는 값이 그대로 html에서 보여진다. 변수 정보는 다음 [링크](http://jekyllrb.com/docs/variables/)에 나와있다.
 - `{% %}` : Tag markup. 안에 쓴 내용이 html에 보이지 않는다. 반복 시작과 끝, 조건 시작과 끝을 나타낸다.
 - filter: `<p>Posted {{ post.date | date: "%b %-d, %Y" }}</p>` 처럼 쓴다. [GitHub](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers#standard-filters), [공식문서](http://jekyllrb.com/docs/templates/) 참조. 
 
