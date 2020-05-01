@@ -278,3 +278,4 @@ categories: ml optimizer
     + Type: CNAME - Canonical name
     + Value: `gyubin.github.io`
 - dig, domain information groper: 잘 되었는지 `dig www.qbinson.io` 명령어를 터미널에 쳐서 확인할 수 있다. A, CNAME 레코드 정보가 보일 것이다.
+
