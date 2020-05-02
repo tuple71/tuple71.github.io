@@ -1,4 +1,6 @@
 [Git] Fork를 이용해 외부 git 프로젝트 가져오기
 ====================================
 
-Fork and Clone 블로그(https://ourcstory.tistory.com/131)
+[Fork and Clone 블로그](https://ourcstory.tistory.com/131)
+
+
