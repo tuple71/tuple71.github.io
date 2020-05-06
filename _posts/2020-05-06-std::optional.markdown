@@ -1,6 +1,6 @@
-std::optional: 언제, 어떻게, 그리고 왜
+C++17 표준 라이브러리의 std::optional 소개
 =====================================
 
-[C++17 std::optional](https://surpreem.com/stdoptional-%EC%96%B8%EC%A0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%99%9C/)
+[C++17 std::optional](http://occamsrazr.net/tt/entry/C17-%ED%91%9C%EC%A4%80-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%9D%98-stdoptional-%EC%86%8C%EA%B0%9C)
 
 
