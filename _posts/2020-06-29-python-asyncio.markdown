@@ -6,4 +6,6 @@ Python Asyncio 이해
 
 [Asyncio와 Threading](https://nachwon.github.io/asyncio-and-threading/)
 
+[Asyncio](https://sjquant.tistory.com/14)
+
 
