@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "HS Kim"
   avatar           : "/assets/HSKim.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Developer, Designer"
+  bio              : "Developer, Architect"
   location         : "Daejeon, Korea"
   email            : # "tuple@etri.re.kr"
   links:
